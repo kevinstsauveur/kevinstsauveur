@@ -5,7 +5,6 @@ I'm an undergraduate in Software Engineering (BEng.) from Montreal.
 - 📫 To contact me:
   -  Matrix: ``@kevinstsauveur:matrix.org``
   -  XMPP: ``kevinstsauveur@jabber.systemli.org``
-  -  Session: ``05ebe0e66460a054c28b7f9adbca939654cbf51143251b029fe531e06b7bf04a0c``
   -  Email: ``n2vf8jpu@anonaddy.me``
 
 You could also use my [OpenPGP key](https://github.com/kevinstsauveur/pgp-public-key) in combination of these methods.
