@@ -1,5 +1,5 @@
 ### Hi there, I'm Kevin 👋
-I'm an undergraduate in Software Engineering (BEng.) from Montreal.
+Since I graduated in software engineering (B. Eng.) in Montreal, my personal projects focus on various subjects that fascinate me, such as:
 
 - 📚 I’m constantly learning about online **privacy and security** practices.
 - 📫 To contact me:
